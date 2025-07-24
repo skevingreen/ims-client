@@ -7,5 +7,5 @@
 
 export const environment = {
   production: true,
-  apiBaseUrl: 'http://localhost:3000'
+  apiBaseUrl: 'http://ims-server-32ex.onrender.com'
 };
